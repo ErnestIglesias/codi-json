@@ -20,7 +20,7 @@
     },
     {
       "Video": "",
-      "Name": "Roronoa Zoro",
+      "name": "Roronoa Zoro",
       "Age": 21,
       "Sobrenom": "Caçador de pirates",
       "Habilitat": [
@@ -30,7 +30,7 @@
     },
     {
       "Video": "",
-      "Name": "Vinsmoke Sanji",
+      "name": "Vinsmoke Sanji",
       "Age": 21,
       "Sobrenom": "Black Leg",
       "Hablititat": [
@@ -43,7 +43,7 @@
     },
     {
       "Video": "",
-      "Name": "Nami",
+      "name": "Nami",
       "Age": 20,
       "Sobrenom": "Cat Burglar Nami",
       "Habilitat": [
@@ -54,7 +54,7 @@
     },
     {
       "Video": "",
-      "Name": "Ussop",
+      "name": "Ussop",
       "Age": 19,
       "Sobrenom": "God Ussop",
       "Habilitat": [
@@ -64,7 +64,7 @@
     },
     {
       "Video": "",
-      "Name": "Tony Tony Chopper",
+      "name": "Tony Tony Chopper",
       "Age": 17,
       "Fruita del diable": "Home-Home",
       "Habilitat": [
@@ -74,7 +74,7 @@
     },
     {
       "Video": "",
-      "Name": "Nico Robin",
+      "name": "Nico Robin",
       "Age": 30,
       "Sobrenom": "La nena dimoni",
       "Fruita del diable": "Flor-Flor",
@@ -84,7 +84,7 @@
     },
     {
       "Video": "",
-      "Name": "Franky",
+      "name": "Franky",
       "Age": 36,
       "Sobrenom": "Cyborg",
       "Habilitat": [
@@ -94,7 +94,7 @@
     },
     {
       "Video": "",
-      "Name": "Brook",
+      "name": "Brook",
       "Age": 88,
       "Sobrenom": "Rei de les ànimes",
       "Fruita del diable": "Reneixer-Reviure",
