@@ -2,7 +2,6 @@
   "squadName": "Pirates del Barret de Palla",
   "homeTown": "EastBlue",
   "NomVaixell": "Thousand Sunny",
-  "formed": 1999,
   "active": true,
   "members": [
     {
@@ -10,6 +9,7 @@
       "name": "Monkey D. Luffy",
       "Age": 19,
       "FruitaDelDiable": "Goma-Goma",
+      "Sobrenom": "-",
       "Habilitat": [
         "Gear two",
         "Gear three",
@@ -22,6 +22,7 @@
       "Video": "",
       "name": "Roronoa Zoro",
       "Age": 21,
+      "FruitaDelDiable": "-",
       "Sobrenom": "Caçador de pirates",
       "Habilitat": [
         "Sentoryu, estil de 3 katanes",
@@ -32,6 +33,7 @@
       "Video": "",
       "name": "Vinsmoke Sanji",
       "Age": 21,
+      "FruitaDelDiable": "-",
       "Sobrenom": "Black Leg",
       "Hablititat": [
         "Immortality",
@@ -45,6 +47,7 @@
       "Video": "",
       "name": "Nami",
       "Age": 20,
+      "FruitaDelDiable": "-",
       "Sobrenom": "Cat Burglar Nami",
       "Habilitat": [
         "Lladre",
@@ -56,6 +59,7 @@
       "Video": "",
       "name": "Ussop",
       "Age": 19,
+      "FruitaDelDiable": "-",
       "Sobrenom": "God Ussop",
       "Habilitat": [
         "Franctirador, utilitza un tiraxines",
@@ -67,6 +71,7 @@
       "name": "Tony Tony Chopper",
       "Age": 17,
       "FruitaDelDiable": "Home-Home",
+      "Sobrenom": "-",
       "Habilitat": [
         "Metge",
         "Fruita del diable: Home-Home "
@@ -76,8 +81,8 @@
       "Video": "",
       "name": "Nico Robin",
       "Age": 30,
-      "Sobrenom": "La nena dimoni",
       "FruitaDelDiable": "Flor-Flor",
+      "Sobrenom": "La nena dimoni",
       "Habilitat": [
         "Capacitat de llegir Poneglyphs"
       ]
@@ -86,6 +91,7 @@
       "Video": "",
       "name": "Franky",
       "Age": 36,
+      "FruitaDelDiable": "-",
       "Sobrenom": "Cyborg",
       "Habilitat": [
         "Constructor de vaixells",
@@ -96,8 +102,8 @@
       "Video": "",
       "name": "Brook",
       "Age": 88,
-      "Sobrenom": "Rei de les ànimes",
       "FruitaDelDiable": "Reneixer-Reviure",
+      "Sobrenom": "Rei de les ànimes",
       "Habilitat": [
         "No pot morir",
         "Músic",
